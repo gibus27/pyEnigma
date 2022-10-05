@@ -1,7 +1,8 @@
+Fork de pyEnigma utilisé pour un TP d'informatique en IUT/RT/Elbeuf
+
 # pyEnigma
 
 [![builds.sr.ht status](https://builds.sr.ht/~cedric/pyenigma.svg)](https://builds.sr.ht/~cedric/pyenigma)
-
 
 [pyEnigma](https://sr.ht/~cedric/pyenigma) is a  Python Enigma cypher machine
 simulator.
@@ -14,12 +15,6 @@ https://todo.sr.ht/~cedric/pyenigma
 
 
 ### As a Python library
-
-You can install pyEnigma with Poetry.
-
-```bash
-$ poetry install pyenigma
-```
 
 Then you can use it in your program:
 
@@ -79,12 +74,6 @@ Qgqop Vyzxp
 ```
 
 ### As a program
-
-Install pyEnigma system wide with pipx:
-
-```bash
-$ pipx install pyenigma
-```
 
 Then you can use the command line interface:
 
